@@ -1,0 +1,8 @@
+.content {
+  background-image: url("../Shared/bg.jpg");
+  background-size: cover;
+  background-position: bottom;
+  width: 100vw;
+  height: 100vh;
+  padding-top: 3em;
+}

@@ -1,0 +1,31 @@
+.Home {
+  background-image: url("../Shared/bg.jpg");
+  background-size: cover;
+  background-position: bottom;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(99, 99, 99);
+}
+
+.welcome {
+  margin-bottom: 2em;
+  margin-top: -20vh;
+}
+
+.loginOption {
+  width: 20em;
+}
+
+.button {
+  width: 10em;
+  margin-top: 2em;
+}
+
+.buttonGroup {
+  width: 20em;
+  margin-top: 2em;
+}
